@@ -1,4 +1,4 @@
-# Rpi Remote Control Car
+# Raspberry Pi Remote Control Car
 
 This is a simple project based on Arduino and Raspberry Pi.
 
